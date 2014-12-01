@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Tutorial Repository
+Hello all, I am learning how to use GitHub!
